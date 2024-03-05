@@ -32,6 +32,6 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/esteban-rodriguez-ordoñez-392339209"><img src="https://img.shields.io/badge/-Esteban%20Rodriguez%20Ordoñez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/esteban-rodriguez-ordo%C3%B1ez-392339209/"><img src="https://img.shields.io/badge/-Esteban%20Rodriguez%20Ordoñez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
