@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Electronic Engineering at the University of Antioquia.\
+🎓 &nbsp;I'm Electronic Engineer of the University of Antioquia.\
 ✉️ &nbsp;You can shoot me an email at esteban52999@gmail.com 
 
 ### 🛠 &nbsp;Languages and Tools:
